@@ -1,0 +1,3 @@
+_G.wl_key = '329b0c27d7b48ac049451b94880adf61a2877d06'
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/4884/18972/NoggerHubFree.lua'))()
+
